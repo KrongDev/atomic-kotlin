@@ -1,4 +1,4 @@
-package io.geon.Objects
+package io.geon.chapter2.Objects
 
 fun main() {
     val s = "123"

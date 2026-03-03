@@ -1,4 +1,4 @@
-package io.geon.Objects
+package io.geon.chapter2.Objects
 
 fun fraction(numerator: Long, denom: Long) = numerator.toDouble() /denom
 
